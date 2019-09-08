@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Description</title>
+    <link rel="stylesheet" href="Description.css">
+</head>
+<body>
+    <div>
+        <h1 id="title">Description</h1>
+            <p id="instruction">-Please type down what happened in the box below (Be as specific as possible)-</p>
+    </div>
+    <div>
+        <p>
+        <textarea rows="15" cols="50" placeholder="Describe what happened here..."></textarea>
+        </p>
+    </div>
+    <div>
+        <button type="button" id="submitbutton">submit</button>
+    </div>
+</body>
+</html>
