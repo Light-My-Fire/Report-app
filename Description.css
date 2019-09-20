@@ -1,5 +1,7 @@
 #instruction {
-    color: darkblue;
-    background-color: lightblue;
+    background-color: #03386e;
     text-align: center;
+}
+#title {
+    background-color:#851911;
 }
